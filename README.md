@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Allen Turner 
 
-<!--
-**AllenTurnerCTO/AllenTurnerCTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Building DatumOS @ StudioDatum
 
-Here are some ideas to get you started:
+After 27 years in AEC technology, I'm finally building the solution I wished existed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What we're solving:** The 18-minute document search. The institutional knowledge that walks out the door. The operational chaos that costs AEC firms billions annually.
+
+**What I'm working on:**
+- DatumOS - AI-powered operational intelligence for A&E firms
+- Agent harnesses for AEC workflows
+- Knowledge graphs for document relationships
+- Sub-second semantic search across connected systems
+
+**Tech Stack:**
+`Claude Agent SDK` `Vercel AI SDK` `Next.js` `TypeScript` `PostgreSQL` `pgvector`  `Knowledge Graphs`
+
+**Connect:**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/allen-turner-jsf/)
+- 🐦 [X/Twitter](https://x.com/JSF_allen)
+- 🌐 [StudioDatum](https://studiodatum.com)
+
+---
+*Co-Founder & CTO @ StudioDatum | Burlington, NC*
