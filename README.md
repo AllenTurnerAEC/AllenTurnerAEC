@@ -13,7 +13,7 @@ After 27 years in AEC technology, I'm finally building the solution I wished exi
 - Sub-second semantic search across connected systems
 
 **Tech Stack:**
-`Claude Agent SDK` `Vercel AI SDK` `Next.js` `TypeScript` `PostgreSQL` `pgvector`  `Knowledge Graphs`
+`Claude Agent SDK` `Vercel AI SDK` `Context Graphs` `Next.js` `TypeScript` `PostgreSQL` 
 
 **Connect:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/allen-turner-jsf/)
