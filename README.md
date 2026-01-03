@@ -16,8 +16,8 @@ After 27 years in AEC technology, I'm finally building the solution I wished exi
 `Claude Agent SDK` `Vercel AI SDK` `Context Graphs` `Next.js` `TypeScript` `PostgreSQL` 
 
 **Connect:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/allen-turner-jsf/)
-- 🐦 [X/Twitter](https://x.com/JSF_allen)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/allenturner-aec/)
+- 🐦 [X/Twitter](https://x.com/allen__turner)
 - 🌐 [StudioDatum](https://studiodatum.com)
 
 ---
